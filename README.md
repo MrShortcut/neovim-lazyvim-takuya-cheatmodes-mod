@@ -1,4 +1,5 @@
 ```js
+scoop install gcc
 path C:\Users\{USERNAME}\AppData\Local\nvim
 ```
 
